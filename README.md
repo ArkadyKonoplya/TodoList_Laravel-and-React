@@ -13,7 +13,7 @@ When you get started with the project  make a single commit to the project so we
 Please commit all of your working code to the repository.
 Once you have finished creating the app and have committed your code let a team member know that your app is ready for review.
 
-### Make sure your app is ready for review!
+### Make sure your app is ready for review
 
 We should be able to pull down your completed repository, install the packages and run it locally to review.
 
